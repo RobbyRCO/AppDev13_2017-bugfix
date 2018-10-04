@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="XAMPP (project level)">
+    <serverData>
+      <paths name="Azure">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/site/wwwroot" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Ubuntu">
+        <serverdata>
+          <mappings>
+            <mapping deploy="AppDev" local="$PROJECT_DIR$" web="/AppDev" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="WebServer">
+        <serverdata>
+          <mappings>
+            <mapping deploy="public_html/Frontend" local="$PROJECT_DIR$" web="/Frontend" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="XAMPP (project level)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="AppDev/" local="$PROJECT_DIR$" web="/AppDev/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
